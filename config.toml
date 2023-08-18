@@ -2,3 +2,18 @@ theme = "fuji"
 baseURL = "http://iorin-elmo.github.io/"
 languageCode = "ja"
 title = "iorin's HomePage"
+canonifyurls = true
+DefaultContentLanguage = 'ja'
+enableGitInfo = true
+
+[Params]
+description = 'いおりんのホームページ！'
+dateformat = "2006/01/02"
+
+[params.author]
+name = "iorin"
+twitter = "https://x.com/kawaii_iorin"
+github = "https://github.com/iorin-elmo"
+
+[taxonomies]
+tag = "tags"
