@@ -1,0 +1,4 @@
+theme = "fuji"
+baseURL = "http://iorin-elmo.github.io/"
+languageCode = "ja"
+title = "iorin's HomePage"
