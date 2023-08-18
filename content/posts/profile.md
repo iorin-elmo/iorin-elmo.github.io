@@ -1,6 +1,6 @@
 ---
 title: "Profile"
-tags: ["profile"]
+tags: ["Profile"]
 date: 2023-08-18T10:21:57+09:00
 draft: false
 ---

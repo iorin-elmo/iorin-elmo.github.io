@@ -2,7 +2,7 @@
 title: "4DTicTacToe"
 date: 2020-12-21
 draft: false
-tags: ["Elm","TicTacToe","〇✕ゲーム","4D","game"]
+tags: ["Elm","TicTacToe","〇✕ゲーム","4D","Game"]
 ---
 
 # 4次元〇✕ゲームの実装
