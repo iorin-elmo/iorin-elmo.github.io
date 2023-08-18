@@ -2,7 +2,7 @@
 title: "ChaosTheory"
 date: 2022-02-22
 draft: false
-tags: ["chaos-theory","exponential-idle","elm","math"]
+tags: ["chaos-theory","exponential-idle","Elm","math","simulator"]
 ---
 
 # Chaos Theory の実装
